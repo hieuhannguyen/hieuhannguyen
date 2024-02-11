@@ -6,10 +6,10 @@ Resume -> [link](https://drive.google.com/file/d/16kCKQa93iqAjMMIJiUu8c-uf3_uQEp
 
  ## Summary of Projects and Accomplishments
  1. Covid-19 and Private Violence -> [repo](https://github.com/hieuhannguyen/Covid19-and-Private-Violence)
-    *Skills:* data analysis and visualization with Python, data story-telling, policy analysis.
+    - *Skills:* data analysis and visualization with Python, data story-telling, policy analysis.
  2. Career Outcome Program -> [repo](https://github.com/hieuhannguyen/Career-Outcome)
-    *Skills:* Pythonic programming, API-querying, web-scraping.
+    - *Skills:* Pythonic programming, API-querying, web-scraping.
  3. Senior Independent Study Thesis -> [link](https://wooster.edu/2022/04/26/hannah-nguyen-2/)
-    *Skills:* project management, literature review, research writing. 
+    - *Skills:* project management, literature review, research writing. 
  4. Conference Paper -> [link](https://www.linkedin.com/feed/update/urn:li:activity:6999144353852010496/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6999144353852010496%29)
-    *Skills:* research planning, public speaking, critical analysis.
+    - *Skills:* research planning, public speaking, critical analysis.
