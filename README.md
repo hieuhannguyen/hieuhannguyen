@@ -2,7 +2,7 @@
 
 Aspiring data analyst with strong technical skills from rigorous coursework and proven track record in designing and conducting award-winning research. Expert communicator with one year of experience in fundraising.
 
-Resume -> [link](https://drive.google.com/file/d/16kCKQa93iqAjMMIJiUu8c-uf3_uQEp37/view?usp=sharing)
+Resume -> [link]()
 
  ## Summary of Projects and Accomplishments
  1. Covid-19 and Private Violence -> [repo](https://github.com/hieuhannguyen/Covid19-and-Private-Violence)
