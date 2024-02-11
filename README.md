@@ -1,6 +1,6 @@
 ## Introduction
 
-Aspiring data analyst with strong technical skills from rigorous coursework and proven track record in designing and conducting award-winning research. Expert communicator with one year of experience in fundraising, securing $200,000 of unrestricted funds for the organization.
+Aspiring data analyst with strong technical skills from rigorous coursework and proven track record in designing and conducting award-winning research. Expert communicator with one year of experience in fundraising.
 
 Resume -> [link](https://drive.google.com/file/d/16kCKQa93iqAjMMIJiUu8c-uf3_uQEp37/view?usp=sharing)
 
