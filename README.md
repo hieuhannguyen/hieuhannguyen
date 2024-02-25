@@ -11,7 +11,7 @@ Website (longer version of this github) -> [link](https://sites.google.com/view/
  2. Career Outcome Program -> [repo](https://github.com/hieuhannguyen/Career-Outcome)
     - *Skills:* Pythonic programming, API-querying, web-scraping.
  3. Experiential Learning Research -> [repo](https://github.com/hieuhannguyen/experiential_learning)
-    - *Skills:* Python data analysis
+    - *Skills:* Python data analysis, project management, communications.
  5. Senior Independent Study Thesis -> [link](https://wooster.edu/2022/04/26/hannah-nguyen-2/)
     - *Skills:* project management, literature review, research writing. 
  6. Conference Paper -> [link](https://www.linkedin.com/feed/update/urn:li:activity:6999144353852010496/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6999144353852010496%29)
