@@ -3,7 +3,6 @@
 Aspiring data analyst with strong technical skills from rigorous coursework and proven track record in designing and conducting award-winning research. Expert communicator with one year of experience in fundraising.
 
 Resume -> [link](https://drive.google.com/file/d/1TROg4i1CfjEjXKHo1ONLgDUYc0DWp0ty/view?usp=sharing) <br/>
-Website (longer version of this github) -> [link](https://sites.google.com/view/hannahnguyen/home)
 
  ## Summary of Projects and Accomplishments
  1. Covid-19 and Private Violence -> [repo](https://github.com/hieuhannguyen/Covid19-and-Private-Violence)
