@@ -4,12 +4,14 @@ Aspiring data analyst with strong technical skills from rigorous coursework and 
 
 Resume -> [link](https://drive.google.com/file/d/14oAwmVu36RriCyKY4e0Ioq19cnunXK-M/view?usp=sharing) <br/>
 
- ## Summary of Projects and Accomplishments
- 1. Covid-19 and Private Violence -> [repo](https://github.com/hieuhannguyen/Covid19-and-Private-Violence)
+ ## Summary of Projects
+ 1. Climate-Driven Housing Price Predictions -> [repo](https://github.com/hieuhannguyen/climate_housing)
+    - *Skills:* machine learning with Python, data analysis for public policy.
+ 2. Covid-19 and Private Violence -> [repo](https://github.com/hieuhannguyen/Covid19-and-Private-Violence)
     - *Skills:* data analysis and visualization with Python, data story-telling, policy analysis.
- 2. Career Outcome Program -> [repo](https://github.com/hieuhannguyen/Career-Outcome)
+ 3. Career Outcome Program -> [repo](https://github.com/hieuhannguyen/Career-Outcome)
     - *Skills:* Pythonic programming, API-querying, web-scraping.
- 3. Experiential Learning Research -> [repo](https://github.com/hieuhannguyen/experiential_learning)
+ 4. Experiential Learning Research -> [repo](https://github.com/hieuhannguyen/experiential_learning)
     - *Skills:* Python data analysis, project management, communications.
  5. Senior Independent Study Thesis -> [link](https://wooster.edu/2022/04/26/hannah-nguyen-2/)
     - *Skills:* project management, literature review, research writing. 
