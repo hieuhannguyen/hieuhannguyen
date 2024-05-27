@@ -5,8 +5,9 @@
 - Platforms & IDE: spyder, VSCode, Google Colab 
 
 ## Summary of Projects
- 1. Climate-Driven Housing Price Predictions -> [repo](https://github.com/hieuhannguyen/climate_housing)
+ 1. Climate-Driven Housing Price Predictions -> [repo]([https://github.com/hieuhannguyen/climate_housing](https://github.com/MLFP-90803-SP24-FinalProjects/Team17-FinalProject))
     - *Skills:* machine learning with Python, data analysis for public policy.
+    - I worked on this project under a different github account that was associated with my CMU email: hieuhann@andrew.cmu.edu
  2. Covid-19 and Private Violence -> [repo](https://github.com/hieuhannguyen/Covid19-and-Private-Violence)
     - *Skills:* data analysis and visualization with Python, data story-telling, policy analysis.
  3. Career Outcome Program -> [repo](https://github.com/hieuhannguyen/Career-Outcome)
