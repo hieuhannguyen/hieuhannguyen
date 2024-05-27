@@ -5,15 +5,15 @@
 - Platforms & IDE: spyder, VSCode, Google Colab 
 
 ## Summary of Projects
- 1. Climate-Driven Housing Price Predictions -> [repo](https://github.com/MLFP-90803-SP24-FinalProjects/Team17-FinalProject)
+ 1. Titanic Survival Prediction -> [repo](https://github.com/hieuhannguyen/titanic)
+    - *Skills*: machine learning with Python, data analytics, JupyterNotebook. 
+ 2. Climate-Driven Housing Price Predictions -> [repo](https://github.com/MLFP-90803-SP24-FinalProjects/Team17-FinalProject)
     - *Skills:* machine learning with Python, data analysis for public policy.
     - I worked on this project under a different github account that was associated with my CMU email: hieuhann@andrew.cmu.edu
- 2. Covid-19 and Private Violence -> [repo](https://github.com/hieuhannguyen/Covid19-and-Private-Violence)
+ 3. Covid-19 and Private Violence -> [repo](https://github.com/hieuhannguyen/Covid19-and-Private-Violence)
     - *Skills:* data analysis and visualization with Python, data story-telling, policy analysis.
- 3. Career Outcome Program -> [repo](https://github.com/hieuhannguyen/Career-Outcome)
+ 4. Career Outcome Program -> [repo](https://github.com/hieuhannguyen/Career-Outcome)
     - *Skills:* Pythonic programming, API-querying, web-scraping.
- 4. Titanic Survival Prediction -> [repo](https://github.com/hieuhannguyen/titanic)
-    - *Skills*: machine learning with Python, data analytics, JupyterNotebook. 
  5. Experiential Learning Research -> [repo](https://github.com/hieuhannguyen/experiential_learning)
     - *Skills:* Python data analysis, project management, communications.
  6. Senior Independent Study Thesis -> [link](https://wooster.edu/2022/04/26/hannah-nguyen-2/)
