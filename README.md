@@ -1,5 +1,5 @@
 ## Snap-shot Introduction:
-- Aspiring data scientist
+- Aspiring data scientist/analyst
 - Carnegie Mellon University
 - Python-skills: machine learning, data visualization, web-scrapping, API-querying
 - Platforms & IDE: spyder, VSCode, Google Colab 
