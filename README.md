@@ -1,5 +1,5 @@
 ## Snap-shots:
-- Aspiring data analyst/scientist or SWD
+- Data Analyst / Travel Demand Modeler
 - Carnegie Mellon University
 - Experience:
   - Working with LLMs (proj. #1)
